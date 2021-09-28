@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(226, 233, 255);
+  margin: 5% 23% 23%;
+  text-align: left;
+  font-family: 'Barlow', sans-serif;
+  color: rgb(28, 42, 91);
+}
+
+h1 {
+  margin: 0 0 5% 0;
+}
+
+h2 {
+  margin: 5% 0 5% 0;
+}
+
+a {
+  color:rgb(65, 136, 169)
+}
+
+p, li {
+  font-size: 20px;
+}
+
+li {
+  padding: 0% 0% 1% 0%;
+}
+
+img {
+  /*height: 300px;*/
+  max-width: 100%;
+}
