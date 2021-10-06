@@ -9,6 +9,15 @@
   "author": "Amaya Kejriwal",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "forever": "^0.10.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amayakejriwal/portfolio-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amayakejriwal/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/amayakejriwal/portfolio-website#readme"
 }
