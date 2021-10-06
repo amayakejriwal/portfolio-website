@@ -30,3 +30,13 @@ img {
   /*height: 300px;*/
   max-width: 100%;
 }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.multiple-imgs {
+  max-width: 47%;
+  margin: 0% 1% 1% 0%;
+}
